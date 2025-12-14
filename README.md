@@ -78,7 +78,7 @@ AI-powered movie discovery platform inspired by Netflix.
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake Light](https://raw.githubusercontent.com/Prabhulal0410/Prabhulal0410/main/dist/github-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Prabhulal0410/Prabhulal0410/main/dist/github-snake-dark.svg)
 
 
 ---
