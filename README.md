@@ -10,12 +10,12 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 ---
 
-## 🚀 Quick Highlights
+## 🧠 What I Bring as a Frontend Developer
 
-* 💻 Frontend-focused with React & Next.js
-* 🎯 Pixel-perfect UI & performance-driven apps
-* 🤖 Experience integrating AI & public APIs
-* 🌱 Currently learning advanced React & Next.js SEO
+* ✅ Strong React & Next.js fundamentals with real-world projects
+* 🎯 Focus on performance, clean architecture & reusable components
+* 🤖 Experience integrating AI & third‑party APIs
+* 💼 Actively seeking **Frontend Developer / React Developer** roles
 
 ---
 
@@ -106,4 +106,5 @@ AI-powered movie discovery platform inspired by Netflix.
 ---
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Prabhulal0410\&icon=0\&color=0)
+
 
