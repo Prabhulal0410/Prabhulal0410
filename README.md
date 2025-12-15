@@ -14,8 +14,9 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 * ✅ Strong React & Next.js fundamentals with real-world projects
 * 🎯 Focus on performance, clean architecture & reusable components
-* 🤖 Experience integrating AI & third‑party APIs
-* 💼 Actively seeking **Frontend Developer / React Developer** roles
+* 🤖 Experience integrating AI & third-party APIs
+* 💼 **Open to Frontend Developer / React / Next.js roles (Remote / India)**
+* 📄 **Resume:** *Add your Google Drive resume link here*
 
 ---
 
