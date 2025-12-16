@@ -26,7 +26,7 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prabhulal0410&show_icons=true&theme=dark&include_all_commits=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Prabhulal0410&theme=dark" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhulal0410&theme=dark" height="165" />
 </p>
 
 <p align="center">
