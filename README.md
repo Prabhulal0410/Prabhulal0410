@@ -25,12 +25,13 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhulal0410&theme=github_dark)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhulal0410&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhulal0410&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhulal0410&show_icons=true&theme=dark&include_all_commits=true" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Prabhulal0410&theme=dark" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhulal0410&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhulal0410&layout=compact&theme=dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhulal0410&theme=github_dark&utcOffset=5.5" height="150" />
 </p>
 
 ---
@@ -86,11 +87,6 @@ AI-powered movie discovery platform inspired by Netflix.
 [![Instagram](https://img.shields.io/badge/Instagram-prabhulal_04-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/prabhulal_04)
 [![X](https://img.shields.io/badge/X-Prabhulal0410-000000?style=flat&logo=x&logoColor=white)](https://x.com/Prabhulal0410)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prabhulal.raghwani410@gmail.com)
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prabhulal0410&theme=onedark&no-frame=true&margin-w=8)
 
 ---
 
