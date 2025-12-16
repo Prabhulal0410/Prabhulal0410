@@ -25,13 +25,12 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhulal0410&theme=github_dark)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhulal0410&show_icons=true&theme=dark&include_all_commits=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhulal0410&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhulal0410&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhulal0410&theme=dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhulal0410&layout=compact&theme=dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhulal0410&theme=github_dark&utcOffset=5.5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhulal0410&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 ---
@@ -97,8 +96,3 @@ AI-powered movie discovery platform inspired by Netflix.
 
 ### ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
