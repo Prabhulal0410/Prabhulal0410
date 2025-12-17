@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Redux+Toolkit+%7C+Tailwind+CSS;Building+Modern+%26+Scalable+UIs" alt="Typing SVG" />
 </p>
 
-🚀 **Frontend Developer | React • Next.js • JavaScript • Redux • Tailwind CSS**
+🚀 **Frontend Developer | React • Next.js • JavaScript • Redux Toolkit • Tailwind CSS**
 
 I’m a passionate **Frontend Developer** focused on building **modern, fast, and responsive web applications** using **React, Next.js, Redux Toolkit, and Tailwind CSS**. I enjoy crafting clean UI, smooth UX, and real-world product experiences.
 
@@ -20,7 +20,7 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 ---
 
-## 📊 GitHub Overview 
+## 📊 GitHub Overview
 
 <p align="center">
   <img 
@@ -31,11 +31,11 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhulal0410&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Prabhulal0410&theme=github-dark&hide_border=true"
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhulal0410&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhulal0410&layout=compact&theme=github_dark&hide_border=true"
     height="160"
   />
 </p>
@@ -46,7 +46,6 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
     height="150"
   />
 </p>
-
 
 ---
 
@@ -105,4 +104,6 @@ AI-powered movie discovery platform inspired by Netflix.
 ---
 
 ### ✍️ Dev Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
