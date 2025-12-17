@@ -59,9 +59,9 @@ AI-powered movie discovery platform inspired by Netflix.
 **Tech Stack:** React, Redux Toolkit, Tailwind CSS, TMDB API, Google Gemini API  
 
 **Key Features:**
-- 🔐 Authentication (Login / Signup)
+- 🔐 Authentication (Signin / Signup)
 - 🤖 AI-powered movie search (Gemini)
-- 🌐 Multi-language support
+- 🌐 Multi-language support in Search Input and Button
 - 🎞️ Dynamic categories (Now Playing, Popular, Top Rated)
 
 🔗 **Live Demo:** https://netfilx-gpt-project.vercel.app/  
