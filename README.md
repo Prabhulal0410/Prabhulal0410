@@ -31,7 +31,7 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Prabhulal0410&theme=github-dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhulal0410&theme=github-dark&hide_border=true"
     height="160"
   />
   <img 
@@ -60,7 +60,7 @@ AI-powered movie discovery platform inspired by Netflix.
 **Key Features:**
 - 🔐 Authentication (Signin / Signup)
 - 🤖 AI-powered movie search (Gemini)
-- 🌐 Multi-language support in Search Input and Button
+- 🌐 Multi-language support
 - 🎞️ Dynamic categories (Now Playing, Popular, Top Rated)
 
 🔗 **Live Demo:** https://netfilx-gpt-project.vercel.app/  
@@ -106,4 +106,3 @@ AI-powered movie discovery platform inspired by Netflix.
 ### ✍️ Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
