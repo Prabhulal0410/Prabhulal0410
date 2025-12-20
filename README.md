@@ -8,6 +8,8 @@
 
 I’m a passionate **Frontend Developer** focused on building **modern, fast, and responsive web applications** using **React, Next.js, Redux Toolkit, and Tailwind CSS**. I enjoy crafting clean UI, smooth UX, and real-world product experiences.
 
+🟢 **Consistently active developer — contributing code almost daily for the last 40+ days across multiple projects.**
+
 ---
 
 ## 🧠 What I Bring as a Frontend Developer
@@ -31,19 +33,19 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhulal0410&theme=github-dark&hide_border=true"
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhulal0410&layout=compact&theme=github_dark&hide_border=true"
-    height="160"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhulal0410&theme=github-dark&hide_border=true"
+    width="900"
   />
 </p>
 
 <p align="center">
   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhulal0410&layout=compact&theme=github_dark&hide_border=true"
+    height="160"
+  />
+  <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhulal0410&theme=github_dark&utcOffset=5.5"
-    height="150"
+    height="160"
   />
 </p>
 
