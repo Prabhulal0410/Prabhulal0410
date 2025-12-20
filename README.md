@@ -8,8 +8,6 @@
 
 I’m a passionate **Frontend Developer** focused on building **modern, fast, and responsive web applications** using **React, Next.js, Redux Toolkit, and Tailwind CSS**. I enjoy crafting clean UI, smooth UX, and real-world product experiences.
 
-🟢 **Consistently active developer — contributing code almost daily for the last 40+ days across multiple projects.**
-
 ---
 
 ## 🧠 What I Bring as a Frontend Developer
@@ -28,6 +26,15 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhulal0410&theme=github_dark"
     width="800"
+  />
+</p>
+
+### 🔥 Contribution Streak (Current & Longest)
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=Prabhulal0410&theme=dark&hide_border=false"
+    width="600"
   />
 </p>
 
