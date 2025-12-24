@@ -29,7 +29,7 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
   />
 </p>
 
-### 🔥 Contribution Streak (Current & Longest)
+### 🔥 Contribution Streak
 
 <p align="center">
   <img 
