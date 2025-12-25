@@ -105,23 +105,24 @@ AI-powered movie discovery platform inspired by Netflix.
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/prabhulal-raghwani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prabhulal%20Raghwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Prabhulal%20Raghwani-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
-  
+
   <a href="https://instagram.com/prabhulal_04" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@prabhulal__04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-prabhulal__04-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=0D1117" />
   </a>
-  
+
   <a href="https://x.com/Prabhulal0410" target="_blank">
-    <img src="https://img.shields.io/badge/X-@Prabhulal0410-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-Prabhulal0410-000000?style=flat&logo=x&logoColor=white&labelColor=0D1117" />
   </a>
-  
+
   <a href="mailto:prabhulal.raghwani410@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
+
 
 
 
