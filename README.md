@@ -105,10 +105,25 @@ AI-powered movie discovery platform inspired by Netflix.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabhulal%20Raghwani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhulal-raghwani/)
-[![Instagram](https://img.shields.io/badge/Instagram-prabhulal_04-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/prabhulal_04)
-[![X](https://img.shields.io/badge/X-Prabhulal0410-000000?style=flat&logo=x&logoColor=white)](https://x.com/Prabhulal0410)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prabhulal.raghwani410@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabhulal-raghwani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prabhulal%20Raghwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://instagram.com/prabhulal_04" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@prabhulal__04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://x.com/Prabhulal0410" target="_blank">
+    <img src="https://img.shields.io/badge/X-@Prabhulal0410-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  
+  <a href="mailto:prabhulal.raghwani410@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 
 ---
 
