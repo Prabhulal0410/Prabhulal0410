@@ -12,7 +12,7 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 ## 🌐 Portfolio
 
-🔗 **Live Portfolio:** https://your-portfolio-link.com
+🔗 **Live Portfolio:** https://prabhulalportfolio.vercel.app/ 
 
 ---
 
@@ -22,7 +22,6 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 - 🎯 Focus on performance, clean architecture & reusable components  
 - 🤖 Experience integrating AI & third-party APIs  
 - 💼 **Open to Frontend Developer / React / Next.js roles (Remote / India)**  
-- 🌐 **Portfolio:** https://prabhulalportfolio.vercel.app/ 
 - 📄 **Resume:** https://drive.google.com/file/d/1jGYUrbQOhMENx_6cvO7qMSAXRSZJe92K/view?usp=sharing
 
 ---
