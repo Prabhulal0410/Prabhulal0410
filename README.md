@@ -10,12 +10,19 @@ I’m a passionate **Frontend Developer** focused on building **modern, fast, an
 
 ---
 
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:** https://your-portfolio-link.com
+
+---
+
 ## 🧠 What I Bring as a Frontend Developer
 
 - ✅ Strong React & Next.js fundamentals with real-world projects  
 - 🎯 Focus on performance, clean architecture & reusable components  
 - 🤖 Experience integrating AI & third-party APIs  
 - 💼 **Open to Frontend Developer / React / Next.js roles (Remote / India)**  
+- 🌐 **Portfolio:** https://prabhulalportfolio.vercel.app/ 
 - 📄 **Resume:** https://drive.google.com/file/d/1jGYUrbQOhMENx_6cvO7qMSAXRSZJe92K/view?usp=sharing
 
 ---
@@ -122,9 +129,6 @@ AI-powered movie discovery platform inspired by Netflix.
     <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
-
-
-
 
 ---
 
